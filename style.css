@@ -55,6 +55,19 @@ h1 {
     font-size: 60px;
 }
 
+h2 {
+    font-size: 80%;
+    word-spacing: 2px;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+h3 {
+    font-size: 50%;
+    margin-bottom: 15px;
+}
+
 /* ------------------------------ */
 /* HEADER */
 /* ------------------------------ */
