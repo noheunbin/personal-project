@@ -55,6 +55,20 @@ h1 {
     font-size: 60px;
 }
 
+h2 {
+    font-size: 40px;
+    word-spacing: 2px;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+
 /* ------------------------------ */
 /* HEADER */
 /* ------------------------------ */
@@ -111,7 +125,6 @@ header {
     transition: color 0.2s;
 }
 
-
 .money-text-box {
     position: absolute;
     color: #ffffff;
@@ -119,3 +132,35 @@ header {
     top: 75%;
     left: 40%;
 }
+
+/* ----- PARAGRAPHS ----- */
+
+.long-copy {
+    line-height: 140%;
+    width: 100%;
+    text-align: center;
+    font-size: 60%;
+}
+
+
+
+/* ------------------------------ */
+/* APP PHOTO */
+/* ------------------------------ */
+
+.app-photo img {
+    vertical-align: middle;
+    height: 180px;
+    margin: 0;
+}
+
+.app-introduce li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+
+
+}
+
+
+/* 어쩌고 어쩌도고 */
